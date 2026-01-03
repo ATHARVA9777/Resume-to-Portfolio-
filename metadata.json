@@ -1,0 +1,7 @@
+{
+  "name": "PortfoliAI - Resume to Portfolio",
+  "description": "Transform your static PDF resume into a stunning, responsive professional portfolio website in seconds using AI-powered extraction and modern web templates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
